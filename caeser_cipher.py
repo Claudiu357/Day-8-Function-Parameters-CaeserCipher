@@ -21,10 +21,13 @@ def encode(txt, sift_number):
 def decode(txt, sift_number):
     decoded_text = ''
     for letter in txt:
-        new_index = alphabet.index(f'{letter}') - sift_number
-        if new_index < 0:
-            new_index = new_index + 27
-        decoded_text += alphabet[new_index]
+        if letter == '':
+            decoded_text += decoded_text
+        else:
+            new_index = alphabet.index(f'{letter}') - sift_number
+            if new_index < 0:
+                new_index = new_index + 27
+            decoded_text += alphabet[new_index]
 
     print(f"Your decoded text is :{decoded_text}")
 

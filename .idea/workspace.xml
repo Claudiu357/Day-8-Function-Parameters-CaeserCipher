@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ff105b-6a56-4266-ae1c-0d3361cf57f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Day8_FunctionParameters&amp;&amp;Caersar_Ciper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caeser_cipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paint_area_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prime_number_checker.py" afterDir="false" />
-    </list>
+    <list default="true" id="f9ff105b-6a56-4266-ae1c-0d3361cf57f5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
